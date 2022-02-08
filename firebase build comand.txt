@@ -1,0 +1,14 @@
+firebase init
+
+yes...
+
+select hosting configure files... firebase feature.... and firebase hosting....
+
+select project....
+
+change public to build
+
+then Yes
+then No
+then No
+
